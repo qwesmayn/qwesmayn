@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nikita
 ==============================================================================================================================
 
-Frontend Developer | Creating fast, responsive, and beautiful web apps
+Fullstack Developer | Creating fast, responsive, and beautiful web apps
 ----------------------------------------------------------------------
 
 Hello! 👋 I am a frontend developer with 2+ years of experience, passionate about building modern, responsive, and user-friendly web applications. My expertise includes working with technologies such as: - Frontend: Next, React, HTML, JavaScript, CSS, Tailwind CSS, SASS, Redux, RTK - Backend: Express, Node.js, WebSocket - Databases: MySQL, MongoDB, PostgreSQL - Other Tools: Git, Webpack, Vite I enjoy turning design concepts into functional and visually appealing interfaces while ensuring optimal performance and user experience. I am constantly learning and exploring new technologies to enhance my skills and deliver high-quality solutions. Open to collaboration and exciting projects—let's create something amazing together! 🚀
